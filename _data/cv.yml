@@ -1,0 +1,72 @@
+before-pubs:
+  -
+    heading: Appointments
+    items:
+      -
+        title: Research Assistant
+        year: 2017
+        detail: Monash University (FIT)
+  -
+    heading: Education
+    items:
+      -
+        title: Ph.D
+        year: 2018 &ndash; present
+        detail: Monash University (FIT)
+      -
+        title: M.S
+        year: 2015
+        detail: University of Melbourne (CIS)
+      -
+        title: B.S
+        year: 2013
+        detail: Southwest University of Science and Technology
+after-pubs:
+  - 
+    heading: Awards 
+    items:
+      -
+        title: Winning Team
+        year: 2018
+        detail: Winning Team in Collaborative Research Challenge Final (FIT at Monash)
+      -
+        title: International Postgraduate Research Scholarship
+        year: 2018
+        detail: Faculty of Information at Monash
+      -
+        title: Co-funded Monash Graduate Scholarship
+        year: 2018
+        detail: Monash
+  -
+    heading: Grants
+    items:
+      -
+        title: GCP Research Credits
+        year: 2019
+        detail: $1,000 (USD) credits from Google Cloud Platform for Machine Translation project
+  -
+    heading: Teaching
+    subsections:
+      -
+        heading: University courses
+        items:
+          -
+            title: "Fundamentals of Artificial Intelligence"
+            year: 2020
+            detail: as TA
+  -
+    heading: Service
+    subsections:
+      - 
+        heading: Research community
+        items:
+          -
+            title: Reviewer
+            detail: ACL2020
+  -
+    heading: Engineering Positions
+    items:
+      -
+        title: Software Engineer
+        year: 2016&ndash;2017
+        detail: IBM Research AU

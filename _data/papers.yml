@@ -1,0 +1,71 @@
+papers:
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2019
+    title: "A Pointer Network Architecture for Context-Dependent Semantic Parsing"
+    authors: "Xuanli He, Quan Hung Tran, Gholamreza Haffari"
+    booktitle: "Proceedings of ALTA"
+    doc-url: https://www.aclweb.org/anthology/U19-1013.pdf
+    venue: conference
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2019
+    title: "Fog-embedded Deep Learning for the Internet of Things"
+    authors: "Lingjuan Lyu, James C Bezdek, Xuanli He, Jiong Jin"
+    booktitle: "IEEE Transactions on Industrial Informatics"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/8695142
+    venue: journal
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2018
+    title: "Sequence to sequence mixture model for diverse machine translation"
+    authors: "Xuanli He, Gholamreza Haffari, Mohammad Norouzi"
+    booktitle: "Proceedings of CoNLL"
+    doc-url: https://arxiv.org/pdf/1810.07391.pdf
+    venue: conference
+  - layout: paper
+    selected: no
+    paper-type: inproceedings
+    year: 2018
+    title: "Exploring Textual and Speech information in Dialogue Act Classification with Speaker Domain Adaptation"
+    authors: "Xuanli He, Quan Hung Tran, William Havard, Laurent Besacier, Ingrid Zukerman, Gholamreza Haffari"
+    booktitle: "Proceedings of ALTA"
+    venue: conference 
+    doc-url: https://arxiv.org/pdf/1810.07455.pdf
+  - layout: paper
+    selected: no
+    year: 2018
+    paper-type: inproceedings
+    title: "Privacy-preserving collaborative fuzzy clustering"
+    authors: "Lingjuan Lyu, James C Bezdek, Yee Wei Law, Xuanli He, Marimuthu Palaniswami"
+    booktitle: "Data & Knowledge Engineering"
+    doc-url: https://www.researchgate.net/profile/Lingjuan_Lyu/publication/325109642_Privacy-preserving_collaborative_fuzzy_clustering/links/5b5fe0b5458515c4b25444a7/Privacy-preserving-collaborative-fuzzy-clustering.pdf
+    venue: journal 
+  - layout: paper
+    selected: yes
+    paper-type: inproceedings
+    year: 2017
+    title: "Privacy-preserving collaborative deep learning with application to human activity recognition"
+    authors: "Lingjuan Lyu, Xuanli He, Yee Wei Law, Marimuthu Palaniswami"
+    booktitle: "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management"
+    doc-url: https://dl.acm.org/doi/abs/10.1145/3132847.3132990
+    venue: conference
+  - layout: paper
+    year: 2017
+    paper-type: inproceedings
+    title: "Fog-empowered anomaly detection in IoT using hyperellipsoidal clustering"
+    authors: "Lingjuan Lyu, Jiong Jin, Sutharshan Rajasegarar, Xuanli He, Marimuthu Palaniswami"
+    doc-url: https://ieeexplore.ieee.org/abstract/document/7936471
+    booktitle: Proceedings of Educational Data Mining
+    booktitle-url: http://educationaldatamining.org/edm2019/
+    venue: journal
+  - layout: paper
+    year: 2016
+    paper-type: inproceedings
+    title: "Word representation models for morphologically rich languages in neural machine translation"
+    authors: "Ekaterina Vylomova, Trevor Cohn, Xuanli He, Gholamreza Haffari"
+    doc-url: https://arxiv.org/abs/1606.04217
+    venue: ""

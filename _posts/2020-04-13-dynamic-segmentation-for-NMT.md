@@ -86,7 +86,7 @@ As an abaltation study, we present the top-50 most common words that result in a
 
 To conclude, dealing with OOV is an active area in the NLP domain, especially for MT tasks. Previously, researchers have proposed several different subword-oriented approaches. However, these techniques did not utilize the source-side information, which can serve as a good coach to emit a better segmentation on the target language. In our study, we fill in this blank, and demonstrate that incorporating the information of the source language does help to deliver a morphologically-aware segmentation, which can lead to a better translation.
 
-(Want to know more? Check our paper here)
+(Want to know more? Check our paper [here](http://arxiv.org/abs/2005.06606))
 
 <h2>Reference</h2>
 - Schuster, Mike, and Kaisuke Nakajima. "Japanese and korean voice search." 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2012.

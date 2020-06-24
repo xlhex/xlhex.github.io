@@ -1,6 +1,15 @@
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: yes
+    year: 2020
+    title: "Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation"
+    authors: "Xuanli He, Gholamreza Haffari, Mohammad Norouzi"
+    booktitle: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics"
+    doc-url: https://www.aclweb.org/anthology/2020.acl-main.275.pdf
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
     selected: no
     year: 2019
     title: "A Pointer Network Architecture for Context-Dependent Semantic Parsing"

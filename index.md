@@ -13,6 +13,7 @@ which tries to teach machines to automatically translate one language to
 another language(s).
 
 Now, I'm highlighting:
+* Dynamic Programming Encoding (DPE), *i.e.* using dynamic programming for a better subword segmentation
 * Translation with diversity, *i.e.* generating multiple correct translations for
 a given source sentence
 

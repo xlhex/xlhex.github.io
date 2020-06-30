@@ -3,6 +3,15 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2020
+    title: "Towards Differentially Private Text Representations"
+    authors: "Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao"
+    booktitle: "Proceedings of 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval"
+    doc-url: https://arxiv.org/abs/2006.14170
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
     title: "Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation"
     authors: "Xuanli He, Gholamreza Haffari, Mohammad Norouzi"
     booktitle: "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics"

@@ -62,7 +62,7 @@ after-pubs:
         items:
           -
             title: Reviewer
-            detail: ACL2020
+            detail: ACL2020, EMNLP2020
   -
     heading: Engineering Positions
     items:

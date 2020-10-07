@@ -3,6 +3,24 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2020
+    title: "Scene Graph Modification Based on Natural Language Commands"
+    authors: "Xuanli He, Quan Hung Tran, Gholamreza Haffari, Walter Chang, Zhe Lin, Trung Bui, Franck Dernoncourt, Nhan Dam"
+    booktitle: "Accepted to the Findings of the Empirical Methods in Natural Language Processing (Findings-EMNLP), 2020"
+    doc-url: https://arxiv.org/abs/2010.02591
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
+    title: "Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness"
+    authors: "Lingjuan Lyu, Xuanli He, Yitong Li"
+    booktitle: "Accepted to the Findings of the Empirical Methods in Natural Language Processing (Findings-EMNLP), 2020"
+    doc-url: https://arxiv.org/abs/2010.01285
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
     title: "Towards Differentially Private Text Representations"
     authors: "Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao"
     booktitle: "Proceedings of 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval"

@@ -2,6 +2,69 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2022
+    title: "Extracted BERT Model Leaks More Information than You Think!"
+    authors: "Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu"
+    booktitle: "In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing"
+    doc-url: https://arxiv.org/abs/2210.11735
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    title: "Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs"
+    authors: "Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari"
+    booktitle: "Proceedings of the 29th International Conference on Computational Linguistics"
+    doc-url: https://aclanthology.org/2022.coling-1.251/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    title: "Protecting Intellectual Property of Language Generation APIs with Lexical Watermark"
+    authors: "Xuanli He, Qiongkai Xu, Lingjuan Lyu, Fangzhao Wu, Chenguang Wang"
+    booktitle: "Proceedings of the AAAI Conference on Artificial Intelligence"
+    doc-url: https://doi.org/10.1609/aaai.v36i10.21321
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    title: "CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks"
+    authors: "Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia"
+    booktitle: "Advances in Neural Information Processing Systems"
+    doc-url: https://openreview.net/forum?id=L7P3IvsoUXY
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    title: "Generate, Annotate, and Learn: NLP with Synthetic Text"
+    authors: "Xuanli He, Islam Nassar, Jamie Kiros, Gholamreza Haffari, Mohammad Norouzi"
+    booktitle: "Transactions of the Association for Computational Linguistics"
+    doc-url: https://doi.org/10.1162/tacl_a_00492
+    venue: journal
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2021
+    title: "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection"
+    authors: "Thuy-Trang Vu, Xuanli He, Dinh Phung, and Gholamreza Haffari"
+    booktitle: "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing"
+    doc-url: https://aclanthology.org/2021.emnlp-main.268/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2021
+    title: "Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!"
+    authors: "Xuanli He, Lingjuan Lyu, Lichao Sun, and Qiongkai Xu"
+    booktitle: "In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+    doc-url: https://aclanthology.org/2021.naacl-main.161/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2020
     title: "Scene Graph Modification Based on Natural Language Commands"
     authors: "Xuanli He, Quan Hung Tran, Gholamreza Haffari, Walter Chang, Zhe Lin, Trung Bui, Franck Dernoncourt, Nhan Dam"
@@ -45,7 +108,7 @@ papers:
     doc-url: https://www.aclweb.org/anthology/U19-1013.pdf
     venue: conference
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2019
     title: "Fog-embedded Deep Learning for the Internet of Things"
@@ -54,7 +117,7 @@ papers:
     doc-url: https://ieeexplore.ieee.org/abstract/document/8695142
     venue: journal
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2018
     title: "Sequence to sequence mixture model for diverse machine translation"
@@ -81,7 +144,7 @@ papers:
     doc-url: https://www.researchgate.net/profile/Lingjuan_Lyu/publication/325109642_Privacy-preserving_collaborative_fuzzy_clustering/links/5b5fe0b5458515c4b25444a7/Privacy-preserving-collaborative-fuzzy-clustering.pdf
     venue: journal 
   - layout: paper
-    selected: yes
+    selected: no
     paper-type: inproceedings
     year: 2017
     title: "Privacy-preserving collaborative deep learning with application to human activity recognition"

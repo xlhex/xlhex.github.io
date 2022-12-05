@@ -5,7 +5,7 @@ papers:
     year: 2022
     title: "Extracted BERT Model Leaks More Information than You Think!"
     authors: "Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu"
-    booktitle: "In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing"
+    booktitle: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing"
     doc-url: https://arxiv.org/abs/2210.11735
     venue: conference
   - layout: paper
@@ -50,7 +50,7 @@ papers:
     year: 2021
     title: "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection"
     authors: "Thuy-Trang Vu, Xuanli He, Dinh Phung, and Gholamreza Haffari"
-    booktitle: "In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing"
+    booktitle: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing"
     doc-url: https://aclanthology.org/2021.emnlp-main.268/
     venue: conference
   - layout: paper
@@ -59,7 +59,7 @@ papers:
     year: 2021
     title: "Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!"
     authors: "Xuanli He, Lingjuan Lyu, Lichao Sun, and Qiongkai Xu"
-    booktitle: "In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+    booktitle: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
     doc-url: https://aclanthology.org/2021.naacl-main.161/
     venue: conference
   - layout: paper

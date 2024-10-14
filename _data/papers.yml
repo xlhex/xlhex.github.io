@@ -2,6 +2,87 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2024
+    title: "SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks"
+    authors: "Xuanli He, Qiongkai Xu, Jun Wang, Benjamin Rubinstein, Trevor Cohn"
+    booktitle: "Findings of the Association for Computational Linguistics ACL 2024"
+    doc-url: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00684/124258/SEEP-Training-Dynamics-Grounds-Latent
+    venue: journal
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
+    title: "Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge"
+    authors: "Ansh Arora, Xuanli He, Maximilian Mozes, Srinibas Swain, Mark Dras, Qiongkai Xu"
+    booktitle: "Findings of the Association for Computational Linguistics ACL 2024"
+    doc-url: https://aclanthology.org/2024.findings-acl.894/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
+    title: "Backdoor Attacks on Multilingual Machine Translation"
+    authors: "Jun Wang, Qiongkai Xu, Xuanli He, Benjamin Rubinstein, Trevor Cohn"
+    booktitle: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)"
+    doc-url: https://aclanthology.org/2024.naacl-long.254/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2024
+    title: "AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages"
+    authors: "Jiayi Wang, David Adelani, Sweta Agrawal, Marek Masiak, Ricardo Rei, Eleftheria Briakou, Marine Carpuat, Xuanli He, Sofia Bourhim, Andiswa Bukula, Muhidin Mohamed, Temitayo Olatoye, Tosin Adewumi, Hamam Mokayed, Christine Mwase, Wangui Kimotho, Foutse Yuehgoh, Anuoluwapo Aremu, Jessica Ojo, Shamsuddeen Muhammad, Salomey Osei, Abdul-Hakeem Omotayo, Chiamaka Chukwuneke, Perez Ogayo, Oumaima Hourrane, Salma El Anigri, Lolwethu Ndolela, Thabiso Mangwana, Shafie Mohamed, Hassan Ayinde, Oluwabusayo Awoyomi, Lama Alkhaled, Sana Al-azzawi, Naome Etori, Millicent Ochieng, Clemencia Siro, Njoroge Kiragu, Eric Muchiri, Wangari Kimotho, Toadoum Sari Sakayo, Lyse Naomi Wamba, Daud Abolade, Simbiat Ajao, Iyanuoluwa Shode, Ricky Macharm, Ruqayya Iro, Saheed Abdullahi, Stephen Moore, Bernard Opoku, Zainab Akinjobi, Abeeb Afolabi, Nnaemeka Obiefuna, Onyekachi Ogbu, Sam Ochieng’, Verrah Otiende, Chinedu Mbonu, Yao Lu, Pontus Stenetorp"
+    booktitle: "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)"
+    doc-url: https://aclanthology.org/2024.naacl-long.334/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
+    title: "Using Natural Language Explanations to Improve Robustness of In-context Learning"
+    authors: "Xuanli He, Yuxiang Wu, Oana-Maria Camburu, Pasquale Minervini, Pontus Stenetorp"
+    booktitle: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    doc-url: https://aclanthology.org/2024.acl-long.728/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2023
+    title: "Mitigating Backdoor Poisoning Attacks through the Lens of Spurious Correlation"
+    authors: "Xuanli He, Qiongkai Xu, Jun Wang, Benjamin Rubinstein, Trevor Cohn"
+    booktitle: "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing"
+    doc-url: https://aclanthology.org/2023.emnlp-main.60/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2023
+    title: "Rethinking Round-Trip Translation for Machine Translation Evaluation"
+    authors: "Terry Yue Zhuo, Qiongkai Xu, Xuanli He, Trevor Cohn"
+    booktitle: "Findings of the Association for Computational Linguistics: ACL 2023"
+    doc-url: https://aclanthology.org/2023.findings-acl.22/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2023
+    title: "IMBERT: Making BERT Immune to Insertion-based Backdoor Attacks"
+    authors: "Xuanli He, Jun Wang, Benjamin Rubinstein, Trevor Cohn"
+    booktitle: "Proceedings of the 3rd Workshop on Trustworthy Natural Language Processing"
+    doc-url: https://aclanthology.org/2023.trustnlp-1.25/
+    venue: workshop
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    title: "Foiling Training-Time Attacks on Neural Machine Translation Systems"
+    authors: "Jun Wang, Xuanli He, Benjamin Rubinstein, Trevor Cohn"
+    booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2022"
+    doc-url: https://aclanthology.org/2022.findings-emnlp.435/
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2022
     title: "Extracted BERT Model Leaks More Information than You Think!"
     authors: "Xuanli He, Chen Chen, Lingjuan Lyu, Qiongkai Xu"
@@ -10,7 +91,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2022
     title: "Student Surpasses Teacher: Imitation Attack for Black-Box NLP APIs"
     authors: "Qiongkai Xu, Xuanli He, Lingjuan Lyu, Lizhen Qu, Gholamreza Haffari"
@@ -46,7 +127,7 @@ papers:
     venue: journal
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2021
     title: "Generalised Unsupervised Domain Adaptation of Neural Machine Translation with Cross-Lingual Data Selection"
     authors: "Thuy-Trang Vu, Xuanli He, Dinh Phung, and Gholamreza Haffari"
@@ -64,7 +145,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     title: "Scene Graph Modification Based on Natural Language Commands"
     authors: "Xuanli He, Quan Hung Tran, Gholamreza Haffari, Walter Chang, Zhe Lin, Trung Bui, Franck Dernoncourt, Nhan Dam"
@@ -73,7 +154,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     title: "Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness"
     authors: "Lingjuan Lyu, Xuanli He, Yitong Li"
@@ -82,7 +163,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     title: "Towards Differentially Private Text Representations"
     authors: "Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao"
@@ -91,7 +172,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     title: "Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation"
     authors: "Xuanli He, Gholamreza Haffari, Mohammad Norouzi"

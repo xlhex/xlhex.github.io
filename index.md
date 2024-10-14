@@ -11,9 +11,10 @@ Now, I'm highlighting:
 * Robustness in NLP models 
 
 ## Recent News
-* I joined UCL as a Research Fellow under the supervision of Dr. [Pontus Stenetorp](https://pontus.stenetorp.se/) and Dr. [Pasquale Minervini](http://www.neuralnoise.com/)
-* I did my internship at Amazon Search (Seattle, WA) (Jul-Oct, 2021)
-* I did my internship at Adobe Research (San Jose, CA) (Jul-Sep, 2019)
+* [September 2024 - Paper]: Our paper “Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation” is accpeted by TMLR 2024.
+* [May 2024 - Paper]: 2 papers accepted at ACL (1x)/ACL Findings (1x) 2024
+* [April 2024 - Paper]: Our paper “SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks” is accpeted by TACL 2024.
+* [March 2024 - Paper]: 2 papers accepted at NAACL 2024
 
 ## Recent Research Highlights
 

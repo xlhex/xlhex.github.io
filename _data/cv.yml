@@ -5,22 +5,22 @@ before-pubs:
       -
         title: Research Associate
         year: 2022 &ndash; present
-        detail: Monash University (FIT)
+        detail: University College London
       -
         title: Research Assistant
         year: 2017 &ndash; 2018
-        detail: Monash University (FIT)
+        detail: Monash University
   -
     heading: Education
     items:
       -
         title: Ph.D
         year: 2022
-        detail: Monash University (FIT)
+        detail: Monash University
       -
         title: M.S
         year: 2015
-        detail: University of Melbourne (CIS)
+        detail: University of Melbourne
       -
         title: B.S
         year: 2013

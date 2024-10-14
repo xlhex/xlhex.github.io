@@ -60,7 +60,7 @@ after-pubs:
         items:
           -
             title: "Statistical NLP"
-            year: 2023,2024
+            year: 2023, 2024
             detail: as Senior TA
           -
             title: "Fundamentals of Artificial Intelligence"
@@ -74,7 +74,7 @@ after-pubs:
         items:
           -
             title: Reviewer
-            detail: ACL2020&ndash;2023, EMNLP2020&ndash;2023, AAAI2022&ndash;2024, NeurIPS2024, ICLR2024
+            detail: ACL 2020&ndash;2023, EMNLP 2020&ndash;2023, AAAI 2022&ndash;2024, NeurIPS 2024, ICLR 2024
   -
     heading: Engineering Positions
     items:

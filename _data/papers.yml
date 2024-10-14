@@ -113,7 +113,7 @@ papers:
     year: 2022
     title: "CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks"
     authors: "Xuanli He, Qiongkai Xu, Yi Zeng, Lingjuan Lyu, Fangzhao Wu, Jiwei Li, Ruoxi Jia"
-    booktitle: "Advances in Neural Information Processing Systems"
+    booktitle: "Proceedings of Advances in Neural Information Processing Systems"
     doc-url: https://openreview.net/forum?id=L7P3IvsoUXY
     venue: conference
   - layout: paper

@@ -3,15 +3,19 @@ before-pubs:
     heading: Appointments
     items:
       -
+        title: Research Associate
+        year: 2022 &ndash; present
+        detail: Monash University (FIT)
+      -
         title: Research Assistant
-        year: 2017
+        year: 2017 &ndash; 2018
         detail: Monash University (FIT)
   -
     heading: Education
     items:
       -
         title: Ph.D
-        year: 2018 &ndash; present
+        year: 2022
         detail: Monash University (FIT)
       -
         title: M.S
@@ -41,6 +45,10 @@ after-pubs:
     heading: Grants
     items:
       -
+        title: OpenAI Research Credits
+        year: 2024
+        detail: $2,500 (USD) credits from OpenAI for "Disclosing and Protecting Vulnerabilities in LLM-Orchestrated Autonomous Frameworks."
+      -
         title: GCP Research Credits
         year: 2019
         detail: $1,000 (USD) credits from Google Cloud Platform for Machine Translation project
@@ -50,6 +58,10 @@ after-pubs:
       -
         heading: University courses
         items:
+          -
+            title: "Statistical NLP"
+            year: 2023,2024
+            detail: as Senior TA
           -
             title: "Fundamentals of Artificial Intelligence"
             year: 2020
@@ -62,7 +74,7 @@ after-pubs:
         items:
           -
             title: Reviewer
-            detail: ACL2020, EMNLP2020
+            detail: ACL2020&ndash;2023, EMNLP2020&ndash;2023, AAAI2022&ndash;2024, NeurIPS2024, ICLR2024
   -
     heading: Engineering Positions
     items:

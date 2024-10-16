@@ -12,6 +12,7 @@ Now, I'm highlighting:
 
 ## Recent News
 * \[September 2024 - Paper\]: Our paper “Generative Models are Self-Watermarked: Declaring Model Authentication through Re-Generation” is accpeted by TMLR 2024.
+* \[August 2024 - Paper\]: I will be presenting a tutorial titled "A Copyright War: Authentication for Large Language Models" at IJCAI 2024.
 * \[May 2024 - Paper\]: 2 papers accepted at ACL (1x)/ACL Findings (1x) 2024
 * \[April 2024 - Paper\]: Our paper “SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks” is accpeted by TACL 2024.
 * \[March 2024 - Paper\]: 2 papers accepted at NAACL 2024
